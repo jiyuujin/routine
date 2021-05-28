@@ -1,0 +1,15 @@
+{
+  "name": "read-routine",
+  "short_name": "routine",
+  "icons": [
+    {
+      "src": "images/routine.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "fullscreen",
+  "theme_color": "#000",
+  "background_color": "#000"
+}
